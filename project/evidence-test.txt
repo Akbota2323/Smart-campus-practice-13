@@ -1,0 +1,17 @@
+
+> vite-react-typescript-starter@0.0.0 test
+> vitest run
+
+
+ RUN  v2.1.9 /home/project
+
+ ✓ src/lib/filtering.test.ts (10 tests) 25ms
+ ✓ src/lib/availability.test.ts (33 tests) 84ms
+ ✓ src/App.test.tsx (5 tests) 834ms
+   ✓ App integration (UI behavior) > UI1: default room 09:00-10:00 is Unavailable because of an overlap 391ms
+
+ Test Files  3 passed (3)
+      Tests  48 passed (48)
+   Start at  11:58:47
+   Duration  15.81s (transform 1.45s, setup 0ms, collect 2.63s, tests 944ms, environment 5.38s, prepare 6.43s)
+
